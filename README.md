@@ -106,7 +106,7 @@ python -m unittest discover -s tests -v
 
 ## Dataset
 
-The full Hazardous Viewpoints Dataset (HVD) is not stored in this GitHub repository. Apart from the two non-demographic built-in examples above, HVD-G and HVD-O will be distributed through a separate Hugging Face dataset repository with manual access review.
+The full Hazardous Viewpoints Dataset (HVD) is not stored in this GitHub repository. Apart from the two non-demographic built-in examples above, HVD-G and HVD-O are available through the gated [Promptist/HVD](https://huggingface.co/datasets/Promptist/HVD) dataset repository. Access is granted automatically after signed-in users complete the request form and accept the research-use terms.
 
 ## Citation
 
@@ -118,7 +118,6 @@ The full Hazardous Viewpoints Dataset (HVD) is not stored in this GitHub reposit
   year    = {2026}
 }
 ```
-
 
 ## License
 
